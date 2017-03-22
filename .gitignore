@@ -1,0 +1,9 @@
+*.sh
+*.toc
+*.snm
+*.nav
+*.dvi
+*.aux
+*.log
+*.pdf
+*.out
