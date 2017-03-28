@@ -1,4 +1,5 @@
 :toc:
+:icons: font
 :imagesdir: ../images
 = Lewis Gaylon Hansen Letters
 Steve Hansen <hansenherd@gmail.com>
@@ -13,7 +14,7 @@ A paragragh describing where the letters came from and any other relevant inform
 <<<
 == 1961
 ====== Letter 1 page 1
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_1_1.png[]
 a|{empty} +
@@ -31,7 +32,7 @@ Just after I got checked in, my room-mate came in. His name is Joe Lone & he is 
 
 <<<
 ====== Letter 1 page 2
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_1_2.png[]
 a|{empty} +
@@ -43,7 +44,7 @@ Tuesday we got up at 6:30 & took our time getting to breakfast (as everyone did)
 
 <<<
 ====== Letter 1 page 3
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_1_3.png[]
 a|{empty} +
@@ -59,7 +60,7 @@ Today we had more meetings in the morning & in the afternoon we had 15 minutes w
 
 <<<
 ====== Letter 1 page 4
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_1_4.png[]
 a|{empty} +
@@ -75,7 +76,7 @@ I think I’ll really like it up here if I can get settled on home classes that 
 
 <<<
 ====== Letter 2 page 1
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0000.png[]
 a|{empty} +
@@ -85,7 +86,7 @@ begin text
 
 <<<
 ====== Letter 2 page 2
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0001.png[]
 a|{empty} +
@@ -95,7 +96,7 @@ begin text
 
 <<<
 ====== Letter 2 page 3
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0002.png[]
 a|{empty} +
@@ -105,7 +106,7 @@ begin text
 
 <<<
 ====== Letter 2 page 4
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0003.png[]
 a|{empty} +
@@ -115,7 +116,7 @@ begin text
 
 <<<
 ====== Letter 2 page 5
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0004.png[]
 a|{empty} +
@@ -125,10 +126,13 @@ begin text
 
 <<<
 ====== Letter 2 page 6
-[cols="2,2"]
+[cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0005.png[]
 a|{empty} +
 {empty} +
-begin text
+begin text xxx
+
+NOTE: some info
+
 |===
