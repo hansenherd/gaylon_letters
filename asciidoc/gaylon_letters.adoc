@@ -1,37 +1,11 @@
 :imagesdir: ../images
-= Introduction to AsciiDoc
+= Lewis Gaylon Hansen Letters
 Steve Hansen <hansenherd@gmail.com>
 
-A preface about http://asciidoc.org[AsciiDoc].
-
-:page-layout: landscape
 <<<
-== First Section
-* item 1
-* item 2
+== Prologue
+A paragragh describing where the letters came from and any other relevant information.
 
-image::1961/1961_letter_1_1.png[First Letter]
-
-:page-layout: landscape
-<<<
-== Second Section
-more content
-[cols="2,2,5a"]
-|===
-|Firefox
-|Browser
-|Mozilla Firefox is an open-source web browser.
-
-It's designed for:
-
-* standards compliance
-* performance
-* portability
-
-http://getfirefox.com[Get Firefox]!
-|===
-
-:page-layout: landscape
 <<<
 == 1961
 ====== Letter 1 page 1
@@ -51,10 +25,46 @@ When we were checking in I got a wrong key so I have had to get the head residen
 Just after I got checked in, my room-mate came in. His name is Joe Lone & he is from California. He seems to
 |===
 
-:page-layout: landscape
 <<<
-== Conclusion
-seems to work
+====== Letter 1 page 2
+[cols="2,2"]
+|===
+a|image::1961/1961_letter_1_2.png[First Letter]
+a|{empty} +
+{empty} +
+be a real nice kid. I think we'll get along all right. He is on scholarship to play football. The position he plays is quarter-back so he really isn't so big, about 185#. His dad owns a chemical plant down in California & he's got a 59 Corvette. He took me for a ride downtown to pick up some things that he had forgotten.
 
-:page-layout: landscape
+Tuesday we got up at 6:30 & took our time getting to breakfast (as everyone did) & so there was a line for about a block waiting to eat. When we went to our first meeting in the Field house were late & it was half full of freshmen, about 4,000.
+|===
+
 <<<
+====== Letter 1 page 3
+[cols="2,2"]
+|===
+a|image::1961/1961_letter_1_3.png[First Letter]
+a|{empty} +
+{empty} +
+{empty} +
+{empty} +
+We got out of taking all those placement tests but they had other meetings for us to attend.
+
+Tuesday night we started out to go to M.I.A. but we couldn't find the right wards until it was kind of late so we just looked in on two or three wards.
+
+Today we had more meetings in the morning & in the afternoon we had 15 minutes with our advisor. He told me that if I didn't declare a major in engineering & just filled some general requirements that it would more than likely take me an extra year. I don't know what to do about that.
+|===
+
+<<<
+====== Letter 1 page 4
+[cols="2,2"]
+|===
+a|image::1961/1961_letter_1_4.png[First Letter]
+a|{empty} +
+{empty} +
+Dahl & robert & myself are trying to figure out our registration & we’re all going out in engineering (at least trying to work something out in that field). they recommend 15-15 ½ hours credit & we will most likely have to take 16 ½ hrs. I still can’t decide whether to declare a major or not.
+
+The meals they serve are real good & I quite like my room. It is the most modern rooms available. The only thing I don’t like is the public showers & washing basins.
+
+I think I’ll really like it up here if I can get settled on home classes that I like. We’re going to eat now so I’ve got to get going
+
+-Love, Gaylon
+|===
