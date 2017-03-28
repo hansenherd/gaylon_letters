@@ -1,0 +1,60 @@
+:imagesdir: ../images
+= Introduction to AsciiDoc
+Steve Hansen <hansenherd@gmail.com>
+
+A preface about http://asciidoc.org[AsciiDoc].
+
+:page-layout: landscape
+<<<
+== First Section
+* item 1
+* item 2
+
+image::1961/1961_letter_1_1.png[First Letter]
+
+:page-layout: landscape
+<<<
+== Second Section
+more content
+[cols="2,2,5a"]
+|===
+|Firefox
+|Browser
+|Mozilla Firefox is an open-source web browser.
+
+It's designed for:
+
+* standards compliance
+* performance
+* portability
+
+http://getfirefox.com[Get Firefox]!
+|===
+
+:page-layout: landscape
+<<<
+== 1961
+====== Letter 1 page 1
+[cols="2,2"]
+|===
+a|image::1961/1961_letter_1_1.png[First Letter]
+a|{empty} +
+{empty} +
+{empty} +
+{empty} +
+Hi Mom & Dad
+
+Well we got to Provo all right. We arrived here at about 12:30 & then we stopped at the "State Bank of Provo" and took out a checking account. We didn't get the regular account because if we didn't write very many checks it would cost us more than 10 cents a check for a minimum service charge.
+
+When we were checking in I got a wrong key so I have had to get the head resident to open the room every time I go in.
+
+Just after I got checked in, my room-mate came in. His name is Joe Lone & he is from California. He seems to
+|===
+
+:page-layout: landscape
+<<<
+== Conclusion
+seems to work
+
+:page-layout: landscape
+<<<
