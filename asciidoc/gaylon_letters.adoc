@@ -2,14 +2,21 @@
 :icons: font
 :imagesdir: ../images
 = Lewis Gaylon Hansen Letters
-Steve Hansen <hansenherd@gmail.com>
+Compiled by Steven L. & Jessica Hansen 2017
 
 <<<
 toc::[]
 
 <<<
 == Prologue
-A paragragh describing where the letters came from and any other relevant information.
+Years ago, during a visit to Grandma & Grandpa Hansen's in Richfield, Grandma pulled me aside
+and told me she had this box of letters that dad had written to her during his mission, and she wanted me to have
+them. It turns out there were several letters written during his first year of college, prior to his mission. I've
+had these letters for a long time and at one point had sorted them chronologically as best I could. As part of a
+young women's project, I got Jessica to help me transcribe the letters and get them into a form that can be shared
+with everyone.
+
+Steve Hansen 2017
 
 <<<
 == 1961
@@ -247,3 +254,143 @@ Gaylon
 
 P.S. I sure miss you
 |===
+<<<
+== 1962
+====== Missionary Farewell Program
+[cols="30,70"]
+|===
+a|image::1962/farewell_program_cover.png[]
+a|image::1962/farewell_program.jpg[]
+|===
+====== Letter 1 Page 1
+[cols="1,1"]
+|===
+a|image::1962/1962_1_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter 1 Page 2
+[cols="1,1"]
+|===
+a|image::1962/1962_1_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter 1 Page 3
+[cols="1,1"]
+|===
+a|image::1962/1962_1_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter 2 Page 1
+[cols="70,30"]
+|===
+a|image::1962/1962_2_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter 2 Page 2
+[cols="70,30"]
+|===
+a|image::1962/1962_2_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter 2 Page 3
+[cols="70,30"]
+|===
+a|image::1962/1962_2_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter From Marilyn (around Nov. 1963) page 1
+[cols="1,1"]
+|===
+a|image::from_marilyn/from_marilyn2_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter From Marilyn (around Nov. 1963) page 2
+[cols="1,1"]
+|===
+a|image::from_marilyn/from_marilyn2_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter From Marilyn (around Nov. 1963) page 3
+[cols="1,1"]
+|===
+a|image::from_marilyn/from_marilyn2_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+
+NOTE: Grandma Hansen note says "letter from Marilyn 10 months before Gaylon comes home from his mission"
+|===
+<<<
+====== Letter From Marilyn (around Jan. 1964) page 1
+[cols="1,1"]
+|===
+a|image::from_marilyn/from_marilyn3_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter From Marilyn (around Jan. 1964) page 2
+[cols="1,1"]
+|===
+a|image::from_marilyn/from_marilyn3_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+
+NOTE: Grandma Hansen note says "Just after Christmas, Gaylon will be home for the next one"
+|===
+<<<
+====== Letter From Marilyn
+[cols="1,1"]
+|===
+a|image::from_marilyn/from_marilyn1_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter From Marilyn
+[cols="1,1"]
+|===
+a|image::from_marilyn/from_marilyn1_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Letter Title
+[cols="1,1"]
+|===
+some picture here
+// a|image::1961/1961_letter_3_0006.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+
