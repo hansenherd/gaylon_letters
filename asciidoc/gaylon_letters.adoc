@@ -20,7 +20,7 @@ Steve Hansen 2017
 
 <<<
 == 1961
-====== Letter 1 page 1
+====== Letter 1
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_1_1.png[]
@@ -38,7 +38,7 @@ Just after I got checked in, my room-mate came in. His name is Joe Lone & he is 
 |===
 
 <<<
-====== Letter 1 page 2
+//====== Letter 1 page 2
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_1_2.png[]
@@ -50,7 +50,7 @@ Tuesday we got up at 6:30 & took our time getting to breakfast (as everyone did)
 |===
 
 <<<
-====== Letter 1 page 3
+//====== Letter 1 page 3
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_1_3.png[]
@@ -66,7 +66,7 @@ Today we had more meetings in the morning & in the afternoon we had 15 minutes w
 |===
 
 <<<
-====== Letter 1 page 4
+//====== Letter 1 page 4
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_1_4.png[]
@@ -82,7 +82,7 @@ I think I’ll really like it up here if I can get settled on home classes that 
 |===
 
 <<<
-====== Letter 2 page 1
+====== Letter 2
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0000.png[]
@@ -96,7 +96,7 @@ How are you getting along with the haying operation? Did the rain spoil any of i
 |===
 
 <<<
-====== Letter 2 page 2
+//====== Letter 2 page 2
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0001.png[]
@@ -110,7 +110,7 @@ I went to my religion class Thursday (Robert Tobley & myself)  but the teacher d
 |===
 
 <<<
-====== Letter 2 page 3
+//====== Letter 2 page 3
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0002.png[]
@@ -124,7 +124,7 @@ Saturday my roommate (Joe) traded rooms with another guy across the hall. So now
 |===
 
 <<<
-====== Letter 2 page 4
+//====== Letter 2 page 4
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0003.png[]
@@ -140,7 +140,7 @@ Dahl just came over for a while & he helped me solve some of my math problems. O
 |===
 
 <<<
-====== Letter 2 page 5
+//====== Letter 2 page 5
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0004.png[]
@@ -154,7 +154,7 @@ Last Sunday Bob & Dahl bought us a bucket of apples (delicious; $3.00). They wer
 |===
 
 <<<
-====== Letter 2 page 6
+//====== Letter 2 page 6
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0005.png[]
@@ -174,7 +174,7 @@ Gaylon Hansen
 |===
 
 <<<
-====== Letter 3 page 1
+====== Letter 3
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_3_0001.png[]
@@ -189,7 +189,7 @@ I got your letter yesterday along with one from Laraine. I sure was glad to get 
 Friday I went down to the health center & had my physical examination. It took me about an hour so I missed a chemistry class. I had to fill out a long question-air about everything from bad eyes to high blood pressure.
 |===
 <<<
-====== Letter3 page 2
+//====== Letter3 page 2
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_3_0002.png[]
@@ -200,7 +200,7 @@ Today we got up & was all dressed up when we remembered that it was conference t
 This afternoon I took him up Provo Canyon so he could take some pictures. He has a Brownie 8 mm. camera, a real nice one. We stayed at ”Bridal Veil falls” & both took pictures of that. There were a lot of people there looking at the falls & Cleggs building. There’s a sign that says that it will be opened on the 15th but I don’t see how they can do it. There is an awful lot of work to be
 |===
 <<<
-====== Letter 3 page 3
+//====== Letter 3 page 3
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_3_0003.png[]
@@ -213,7 +213,7 @@ done, in fact I couldn’t see that they had one much since the last time I was 
 Saturday I took Bob down to the selective service to sign up but they were closed. I guess I’ll have to take him down some time during the week. He put a dollars worth of gas in the can & it just about filled it. That is after we went up Provo Canyon & out to the lake for awhile. So you can see that I am not using the car very much. There is about three days a week that I don’t even start the motor.
 |===
 <<<
-====== Letter 3 page 4
+//====== Letter 3 page 4
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_3_0004.png[]
@@ -225,7 +225,7 @@ The B.Y.U. football team played North Texas State, or somebody from Texas, last 
 NOTE: The BYU vs North Texas State was played on Sept. 30, 1961 with BYU losing 30-41
 |===
 <<<
-====== Letter 3 page 5
+//====== Letter 3 page 5
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_3_0005.png[]
@@ -238,7 +238,7 @@ Yesterday Bob & I washed some sox & a couple of pairs of pants. He ironed his pa
 Well I guess I had better close for now. I think we might make it to church
 |===
 <<<
-====== Letter 3 page 6
+//====== Letter 3 page 6
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_3_0006.png[]
@@ -262,16 +262,18 @@ P.S. I sure miss you
 a|image::1962/farewell_program_cover.png[]
 a|image::1962/farewell_program.jpg[]
 |===
-====== Letter 1 Page 1
+<<<
+====== Letter 1
 [cols="1,1"]
 |===
 a|image::1962/1962_1_0000.png[]
-a|{empty} +
+a|mailed October 2, 1962
+{empty} +
 {empty} +
 Letter text HERE
 |===
 <<<
-====== Letter 1 Page 2
+//====== Letter 1 Page 2
 [cols="1,1"]
 |===
 a|image::1962/1962_1_0001.png[]
@@ -280,7 +282,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter 1 Page 3
+//====== Letter 1 Page 3
 [cols="1,1"]
 |===
 a|image::1962/1962_1_0002.png[]
@@ -289,16 +291,17 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter 2 Page 1
+====== Letter 2
 [cols="70,30"]
 |===
 a|image::1962/1962_2_0000.png[]
-a|{empty} +
+a|mailed October 16, 1962
+{empty} +
 {empty} +
 Letter text HERE
 |===
 <<<
-====== Letter 2 Page 2
+//====== Letter 2 Page 2
 [cols="70,30"]
 |===
 a|image::1962/1962_2_0001.png[]
@@ -307,7 +310,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter 2 Page 3
+//====== Letter 2 Page 3
 [cols="70,30"]
 |===
 a|image::1962/1962_2_0002.png[]
@@ -316,7 +319,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter From Marilyn (around Nov. 1963) page 1
+====== Letter From Marilyn (around Nov. 1963)
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn2_0000.png[]
@@ -325,7 +328,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter From Marilyn (around Nov. 1963) page 2
+//====== Letter From Marilyn (around Nov. 1963) page 2
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn2_0001.png[]
@@ -334,7 +337,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter From Marilyn (around Nov. 1963) page 3
+//====== Letter From Marilyn (around Nov. 1963) page 3
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn2_0002.png[]
@@ -345,7 +348,7 @@ Letter text HERE
 NOTE: Grandma Hansen note says "letter from Marilyn 10 months before Gaylon comes home from his mission"
 |===
 <<<
-====== Letter From Marilyn (around Jan. 1964) page 1
+====== Letter From Marilyn (around Jan. 1964)
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn3_0000.png[]
@@ -354,7 +357,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter From Marilyn (around Jan. 1964) page 2
+//====== Letter From Marilyn (around Jan. 1964) page 2
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn3_0001.png[]
@@ -374,10 +377,169 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter From Marilyn
+//====== Letter From Marilyn
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn1_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Sterling Aug 12, 1963
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_aug_12.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Sterling Sept 9
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_sept_9_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//====== Sterling Sept 9 page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_sept_9_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//====== Sterling Sept 9 page 3
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_sept_9_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//====== Sterling Sept 9 page 4
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_sept_9_0003.png[]
+a|{empty} +
+{empty} +
+NOTE: The next two pages looked like a PS added onto this letter
+
+
+Letter text HERE
+|===
+<<<
+//====== Sterling Sept 9 page 5
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_sept_9_0004.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Sterling Sept 13, 1963
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_sept_13.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Sterling Nov 4 postcard
+image::1963_sterling/sterling_nov_4_001.png[]
+<<<
+//====== Sterling Nov 4 postcard
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_nov_4_002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Sterling Nov 13
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_nov_13.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Sterling Dec 9
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_dec_9_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//====== Sterling Dec 9 page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_dec_9_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//====== Sterling Dec 9 page 3
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_dec_9_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Sterling late December
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_late_dec_1.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//====== Sterling late December page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_late_dec_2.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+====== Sterling
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_7_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//====== Sterling page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_7_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//====== Sterling page 3
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_7_0002.png[]
 a|{empty} +
 {empty} +
 Letter text HERE
@@ -393,4 +555,3 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-
