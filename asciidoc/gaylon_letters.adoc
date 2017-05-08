@@ -20,7 +20,7 @@ Steve Hansen 2017
 
 <<<
 == 1961
-====== Letter 1
+=== Letter 1
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_1_1.png[]
@@ -82,7 +82,7 @@ I think I’ll really like it up here if I can get settled on home classes that 
 |===
 
 <<<
-====== Letter 2
+=== Letter 2
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0000.png[]
@@ -174,7 +174,7 @@ Gaylon Hansen
 |===
 
 <<<
-====== Letter 3
+=== Letter 3
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_3_0001.png[]
@@ -256,14 +256,14 @@ P.S. I sure miss you
 |===
 <<<
 == 1962
-====== Missionary Farewell Program
+=== Missionary Farewell Program
 [cols="30,70"]
 |===
 a|image::1962/farewell_program_cover.png[]
 a|image::1962/farewell_program.jpg[]
 |===
 <<<
-====== Letter 1
+=== Letter 1
 [cols="1,1"]
 |===
 a|image::1962/1962_1_0000.png[]
@@ -291,7 +291,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter 2
+=== Letter 2
 [cols="70,30"]
 |===
 a|image::1962/1962_2_0000.png[]
@@ -319,7 +319,8 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter From Marilyn (around Nov. 1963)
+== 1963
+=== Letter From Marilyn (around Nov. 1963)
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn2_0000.png[]
@@ -348,7 +349,7 @@ Letter text HERE
 NOTE: Grandma Hansen note says "letter from Marilyn 10 months before Gaylon comes home from his mission"
 |===
 <<<
-====== Letter From Marilyn (around Jan. 1964)
+=== Letter From Marilyn (around Jan. 1964)
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn3_0000.png[]
@@ -368,7 +369,7 @@ Letter text HERE
 NOTE: Grandma Hansen note says "Just after Christmas, Gaylon will be home for the next one"
 |===
 <<<
-====== Letter From Marilyn
+=== Letter From Marilyn
 [cols="1,1"]
 |===
 a|image::from_marilyn/from_marilyn1_0000.png[]
@@ -386,7 +387,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Sterling Aug 12, 1963
+=== Sterling Aug 12, 1963
 [cols="1,1"]
 |===
 a|image::1963_sterling/sterling_aug_12.png[]
@@ -395,7 +396,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Sterling Sept 9
+=== Sterling Sept 9
 [cols="1,1"]
 |===
 a|image::1963_sterling/sterling_sept_9_0000.png[]
@@ -443,7 +444,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Sterling Sept 13, 1963
+=== Sterling Sept 13, 1963
 [cols="1,1"]
 |===
 a|image::1963_sterling/sterling_sept_13.png[]
@@ -452,7 +453,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Sterling Nov 4 postcard
+=== Sterling Nov 4 postcard
 image::1963_sterling/sterling_nov_4_001.png[]
 <<<
 //====== Sterling Nov 4 postcard
@@ -464,7 +465,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Sterling Nov 13
+=== Sterling Nov 13
 [cols="1,1"]
 |===
 a|image::1963_sterling/sterling_nov_13.png[]
@@ -473,7 +474,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Sterling Dec 9
+=== Sterling Dec 9
 [cols="1,1"]
 |===
 a|image::1963_sterling/sterling_dec_9_0000.png[]
@@ -500,7 +501,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Sterling late December
+=== Sterling late December
 [cols="1,1"]
 |===
 a|image::1963_sterling/sterling_late_dec_1.png[]
@@ -518,7 +519,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Sterling
+=== Sterling
 [cols="1,1"]
 |===
 a|image::1963_sterling/sterling_7_0000.png[]
@@ -545,11 +546,10 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-====== Letter Title
+=== Letter Title
 [cols="1,1"]
 |===
-some picture here
-// a|image::1961/1961_letter_3_0006.png[]
+a|image::1961/some_picture.png[]
 a|{empty} +
 {empty} +
 Letter text HERE
