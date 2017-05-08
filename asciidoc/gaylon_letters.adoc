@@ -319,7 +319,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-== 1963
+== Letters From Marilyn
 === Letter From Marilyn (around Nov. 1963)
 [cols="1,1"]
 |===
@@ -387,6 +387,7 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
+== 1963
 === Sterling Aug 12, 1963
 [cols="1,1"]
 |===
@@ -546,12 +547,251 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
-=== Letter Title
+=== Sterling Misc Letter 1
 [cols="1,1"]
 |===
-a|image::1961/some_picture.png[]
+a|image::1963_sterling/sterling_01_1.png[]
 a|{empty} +
 {empty} +
 Letter text HERE
 |===
 <<<
+// === Sterling Misc Letter 1 page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_01_2.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Sterling Misc Letter 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_02_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Sterling Misc Letter 2 page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_02_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Sterling Misc Letter 2 page 3
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_02_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Sterling Misc Letter 2 page 4
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_02_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Sterling Misc Letter 3
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_03_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Sterling Misc Letter 3 page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_03_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Sterling Misc Letter 4
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_04_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Sterling Misc Letter 4 page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_04_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Sterling Misc Letter 5
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_05_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Sterling Misc Letter 5 page 2
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_05_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+<<<
+//=== Sterling Misc Letter 5 page 3
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_05_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Sterling Misc Letter 5 page 4
+[cols="1,1"]
+|===
+a|image::1963_sterling/sterling_05_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+== Waterloo Area
+=== Waterloo Misc Letter 1
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_01_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 1 page 2
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_01_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 1 page 3
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_01_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Waterloo Misc Letter 2
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_02_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 2 page 2
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_02_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Waterloo Misc Letter 3 (To Loraine & Darwin)
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_03_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 3 page 2
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_03_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 3 page 3
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_03_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 3 page 4
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_03_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 3 page 5
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_03_0004.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Waterloo Misc Letter 4
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_04_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 4 page 2
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_04_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Waterloo Misc Letter 3 page 3
+[cols="1,1"]
+|===
+a|image::05_waterloo_area/waterloo_04_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+
+
+
