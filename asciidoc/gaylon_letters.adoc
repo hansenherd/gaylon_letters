@@ -792,6 +792,465 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
+== Ottawa
+=== Ottawa Misc Letter 1
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_01_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Ottawa Misc Letter 1 page 2
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_01_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Ottawa Misc Letter 1 page 3
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_01_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Ottawa Misc Letter 2
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_02_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Ottawa Misc Letter 2 page 2
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_02_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Ottawa Misc Letter 2 page 3
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_02_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Ottawa Misc Letter 2 page 4
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_02_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Ottawa Misc Letter 3
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_03_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Ottawa Misc Letter 3 page 2
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_03_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Ottawa Misc Letter 3 page 3
+[cols="1,1"]
+|===
+a|image::06_after_ottawa/ottawa_03_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+== Evanston 1963
+=== Evanston Postcard
+[cols="1,1"]
+|===
+a|image::07_1963_evanston/evanston_01_0001.png[]
+image::07_1963_evanston/evanston_01_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Evanston letter 2
+[cols="1,1"]
+|===
+a|image::07_1963_evanston/evanston_02_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Evanston letter 2
+[cols="1,1"]
+|===
+a|image::07_1963_evanston/evanston_02_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Evanston letter 2
+[cols="1,1"]
+|===
+a|image::07_1963_evanston/evanston_02_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Evanston letter 2
+[cols="1,1"]
+|===
+a|image::07_1963_evanston/evanston_02_0004.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Evanston letter 2
+[cols="1,1"]
+|===
+a|image::07_1963_evanston/evanston_02_back_of_evelope.png[]
+a|{empty} + 
+{empty} +
+Note on back of the envelope
 
+Letter text HERE
+|===
+<<<
+== Post Evanston Letter
+[cols="1,1"]
+|===
+a|image::08_after_Evaston/post_evanston_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Post Evanston page 2
+[cols="1,1"]
+|===
+a|image::08_after_Evaston/post_evanston_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Post Evanston page 2
+[cols="1,1"]
+|===
+a|image::08_after_Evaston/post_evanston_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Post Evanston page 2
+[cols="1,1"]
+|===
+a|image::08_after_Evaston/post_evanston_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Post Evanston page 2
+[cols="1,1"]
+|===
+a|image::08_after_Evaston/post_evanston_0004.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Post Evanston page 2
+[cols="1,1"]
+|===
+a|image::08_after_Evaston/post_evanston_0005.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+== 09_???
+=== ????
+[cols="1,1"]
+|===
+a|are there 09_??? images?
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+== Winter
+=== Winter Letter 1
+[cols="1,1"]
+|===
+a|image::10_winter/winter_01_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Winter Letter 1 page 2
+[cols="1,1"]
+|===
+a|image::10_winter/winter_01_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Winter Letter 2
+[cols="1,1"]
+|===
+a|image::10_winter/winter_02_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Winter Letter 2 page 2
+[cols="1,1"]
+|===
+a|image::10_winter/winter_02_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
 
+Final page(s) are missing
+|===
+<<<
+=== Winter Letter 3
+[cols="1,1"]
+|===
+a|image::10_winter/winter_03_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Winter Letter 3 page 2
+[cols="1,1"]
+|===
+a|image::10_winter/winter_03_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Winter Letter 3 page 3
+[cols="1,1"]
+|===
+a|image::10_winter/winter_03_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Winter Letter 3 page 4
+[cols="1,1"]
+|===
+a|image::10_winter/winter_03_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Winter Letter 4
+[cols="1,1"]
+|===
+a|image::10_winter/winter_04_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Winter Letter 4 page 2
+[cols="1,1"]
+|===
+a|image::10_winter/winter_04_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Winter Letter 4 page 3
+[cols="1,1"]
+|===
+a|image::10_winter/winter_04_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Winter Letter 4 page 4
+[cols="1,1"]
+|===
+a|image::10_winter/winter_04_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+== Misc Letters
+=== Misc Letter 1 
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_01_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 1 page 2
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_01_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 1 page 3
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_01_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Misc Letter 2
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_02_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
 
+was there more to this letter???
+|===
+<<<
+=== Misc Letter 3 
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_03_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 3 page 2
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_03_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 3 page 3
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_03_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 3 page 4
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_03_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Misc Letter 4
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_04_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 4 page 2
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_04_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 4 page 3
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_04_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Misc Letter 5
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_05_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 5 page 2
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_05_0001.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 5 page 3
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_05_0002.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+//=== Misc Letter 5 page 4
+[cols="1,1"]
+|===
+a|image::11_unknown/misc_05_0003.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
