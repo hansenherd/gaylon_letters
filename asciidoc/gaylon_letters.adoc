@@ -263,32 +263,48 @@ a|image::1962/farewell_program_cover.png[]
 a|image::1962/farewell_program.jpg[]
 |===
 <<<
-=== Letter 1
+=== Letter 1 - 10/2/1962
 [cols="1,1"]
 |===
 a|image::1962/1962_1_0000.png[]
-a|mailed October 2, 1962
-{empty} +
-{empty} +
-Letter text HERE
+a|Hi mom & Dad,
+
+Well it’s monday so I’ll write. We had a study class this morning with 4 other missionaries this morning, then we all came to our apartment for dinner.
+
+My companions name is Charles Clark & he is from Salt Lake. I am in Evanston, Illinos now. We cover 4-5 other towns around in this area we are just north of Chicago, in fact, the northern tip is in our area.
+
+I got letters from Marilyn & her mom today. She is really busy I guess.
+
+I really like it here. I haven’t noticed any change in the climate yet, I live just a few blocks from the lake. When we were in the mission home the lake was just a few feet from the back door. It looks just like the ocean to me.
+
+Last Thursday, after we had stayed in the mission home one night, they had missionaries come in & go tracting with us. I was really  nervous (I still am as for as that goes)
 |===
 <<<
 //====== Letter 1 Page 2
 [cols="1,1"]
 |===
 a|image::1962/1962_1_0001.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|But we got in & gave part of a lesson in 4 homes. My companion said that was pretty good. I am having trouble learning the lessons. Also I’m having problems remembering the names of all the people I should.
+
+Last night my companion & I showed the film “What is a Mormon” to 11 of the youth in the First Baptist Church & the Reverend. It was quite funny, they asked us to come for dinner & while it was being prepared the Reverend showed us all through their church. We answered question for about 30 minutes after the film.
+
+I spoke to a baptism Saturday afternoon. I only talked for about two minutes but it scared me anyway. There were eleven from all the areas baptized. Elder Clark said there would probably be 50-60 baptized in the whole N.S. mission.
+
+I’ve got to help a couple of missionaries move in into another word so I’ll have to close soon.
 |===
 <<<
 //====== Letter 1 Page 3
 [cols="1,1"]
 |===
 a|image::1962/1962_1_0002.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|I’m not even considered to be in the mission field. We have a million dollar Stake house in our area where two wards attend church. It’s supposed to be one of the best places in the mission though, even if it is expensive. If they spend only $110.00 they feel real good about it. I’ll let you know when I need some money.
+
+Well I've got to close,
+
+Love you very much
+
+Gaylon
+
 |===
 <<<
 === Letter 2
@@ -1759,6 +1775,33 @@ a|{empty} +
 Letter text HERE
 |===
 <<<
+=== Ottawa 2/19/1964
+[cols="1,1"]
+|===
+a|image::14_1964_Ottawa/ottawa_2_19_1964.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Ottawa 3/3/1964
+[cols="1,1"]
+|===
+a|image::14_1964_Ottawa/ottawa_3_3_1964.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+=== Ottawa 3/31/1964
+[cols="1,1"]
+|===
+a|image::14_1964_Ottawa/ottawa_3_31_1964.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
 == Post Ottawa
 === Post Ottawa Misc Letter 1
 [cols="1,1"]
@@ -1947,6 +1990,25 @@ Letter text HERE
 [cols="1,1"]
 |===
 a|image::13_end_of_mission/endOfMission5_0000.png[]
+a|{empty} +
+{empty} +
+Letter text HERE
+|===
+<<<
+== Later in Life
+[cols="1,1"]
+|===
+a|image::15_post_married/cami_0000.png[]
+a|{empty} +
+{empty} +
+*NOTE:* This letter was written much later and it mentions Cami, so it's included
+Letter text HERE
+|===
+<<<
+//=== Later in Life Page 2
+[cols="1,1"]
+|===
+a|image::15_post_married/cami_0001.png[]
 a|{empty} +
 {empty} +
 Letter text HERE
