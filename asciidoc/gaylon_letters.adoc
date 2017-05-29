@@ -304,7 +304,6 @@ Well I've got to close,
 Love you very much
 
 Gaylon
-
 |===
 <<<
 === Letter 2
@@ -314,7 +313,13 @@ a|image::1962/1962_2_0000.png[]
 a|mailed October 16, 1962
 {empty} +
 {empty} +
-Letter text HERE
+Hi Mom & Dad & Doug
+
+We’re on the way to church so I’ll try & write a little we’re supposed to meet a contact there. He called up Thursday & said he was interested in our church. Also a man called the mission home & said he wanted to be baptized. I couldn’t believe it.
+
+I gave the whole lesson (1st one) for the first time last night. I got going & my mind went blank. I left some of it out Elder Clark said I did pretty good though. I didn’t get near as nervous as I have done when we are just studying & practicing. I know I had a lot of help in controlling my nervousness.
+
+1pm: After church we talked with a lady missionary from northern California. She is giving us some suggestions on how to get more cooperation from the stake missionaries. This mission is really growing in the last while, baptisms have doubled
 |===
 <<<
 //====== Letter 2 Page 2
@@ -323,7 +328,13 @@ Letter text HERE
 a|image::1962/1962_2_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+We are going to speed up the progress & in a few months we’re going to be the top mission in the mid-American missions. They are having competition on a mission & region basis.
+
+7 more were baptized in our region yesterday.
+
+Elder Clark & I are meeting a lot of people and we hope to lead some of them into the water this month. I say lead but actually it seems like pushing. The missionaries put a lot more pressure on people than I even thought they should but now I can see the need for it.
+
+We had a visit with a Mrs. Chamberlain & tried to get her to let us teach her or come to church but she wouldn’t. She is the only parent & has 4 kids. Some of the girls have been attending MIA & really like it so she decided rather than take a chance of them joining
 |===
 <<<
 //====== Letter 2 Page 3
@@ -332,7 +343,15 @@ Letter text HERE
 a|image::1962/1962_2_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+she is taking her whole family to her church. She is really a wonderful woman but she is just afraid to change. She is very poor but she is very strong willed so it doesn't look like we have a chance to teach her. How would you approach someone like that? I certainly don't know.
+
+Everything is really great here. The time is really flying. We have a cleaner that does our shirts for us free so that really makes it nice.
+
+Well I’ve got to close so write soon
+
+Your loving son
+
+Gaylon
 |===
 <<<
 == Letters From Marilyn
@@ -342,7 +361,17 @@ Letter text HERE
 a|image::from_marilyn/from_marilyn2_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Dear Mr & Mrs. Hansen & Doug,
+
+I guess it is about time I stop being so slothful and get a letter off to a family I love very much.
+
+I just received the tape from Gaylon of his farewell. When I played it- it was like reliving it all over again. I think it was real good for me to hear it.
+
+Gaylon sure has grown in the past 14 months hasn’t he? I am so glad that he loves the work so. The people seem to also have a love for the Elders.
+
+How have all of you been? I bet it is getting real cold down there. Boy, it sure is here.
+
+My work is coming along fine. We have a really fun
 |===
 <<<
 //====== Letter From Marilyn (around Nov. 1963) page 2
@@ -351,7 +380,13 @@ Letter text HERE
 a|image::from_marilyn/from_marilyn2_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+office and bunch of girls. It really is different than being around L.D.S. girls though.
+
+There really isn’t much news around here. My family is fine. Mom and I both feel fine. My bottom still bothers me but in general I feel a lot better. I am sure thankful for that.
+
+How is Doug doing in his school work. How are Connie & Laraine’s families?
+
+I am going to close for now. I sure do miss being close to your family. I sure will be glad when these next ten months are over and Gaylon and I can be together again. My love for Gaylon has grown more and more since he has been gone.
 |===
 <<<
 //====== Letter From Marilyn (around Nov. 1963) page 3
@@ -360,7 +395,16 @@ Letter text HERE
 a|image::from_marilyn/from_marilyn2_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Through his letters we have been able to grow closer and I feel the gospel has made us closer.
+
+How is your Relief society job coming along?
+
+I pray the Lord’s richest blessings will be with all of you. Always remember that I am continually thinking of all of you and that I have a great love for you all.
+
+Write soon-
+Love
+Marilyn
+
 
 NOTE: Grandma Hansen note says "letter from Marilyn 10 months before Gaylon comes home from his mission"
 |===
@@ -371,7 +415,15 @@ NOTE: Grandma Hansen note says "letter from Marilyn 10 months before Gaylon come
 a|image::from_marilyn/from_marilyn3_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Dear Mr. & Mrs. Hansen & Doug,
+
+The first thing I want to say is that I love all so much. Thank you so much for your thoughtfulness in sending me lovely and so much appreciated gifts. You are so clever. I wish I could thank you in another way than by words. You all have done so much for me and I surely appreciate it.
+
+We had a very lovely christmas. Our family has so much fun when we’re all together. Most of my gifts were for my hope chest.
+
+I have found out that I need glasses. I wonder what else can happen. My other problem still isn’t cleared up. I have to see the Dr. Thursday, the bleeding still hasn’t stopped.
+
+How was your Christmas? Were you all able to get together? Next year Gaylon will be home. That sure will be nice. I love the work he is doing, but I’ll sure be glad when he gets back.
 |===
 <<<
 //====== Letter From Marilyn (around Jan. 1964) page 2
@@ -380,9 +432,17 @@ Letter text HERE
 a|image::from_marilyn/from_marilyn3_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+How is the weather there? The fog finally lifted and we are able to see the sun for the first time in 28 days.
 
-NOTE: Grandma Hansen note says "Just after Christmas, Gaylon will be home for the next one"
+Well, I’ll close for now. Give my love to everyone.
+
+God bless you all.
+
+Love, Marilyn
+
+
+
+NOTE: A Grandma Hansen note says "Just after Christmas, Gaylon will be home for the next one"
 |===
 <<<
 === Letter From Marilyn
@@ -391,7 +451,13 @@ NOTE: Grandma Hansen note says "Just after Christmas, Gaylon will be home for th
 a|image::from_marilyn/from_marilyn1_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Dear Mr. & Mrs. Hansen & Doug,
+
+I wanted to get a letter off right away to thank you all for such a wonderful weekend. It has been a weekend that will always be very special to me. I wish there was just some way I could show you all the love I have for you.
+
+We got here at Provo about 5:30 pm. Connie and I sure had a mice visit on the way down and back. I’m sure glad we can be as close as we are.
+
+I want you to know that I love Gaylon very much. I hope and pray that I will never
 |===
 <<<
 //====== Letter From Marilyn
@@ -400,7 +466,12 @@ Letter text HERE
 a|image::from_marilyn/from_marilyn1_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+do anything to hurt him or any of you. I pray each night for the Lord’s guidance in all of my decisions. Gaylon and I fast and pray together once a month now and I’m sure this will help us continue to be close.
+
+I pray for the Lords blessings to be with each of you. Always remember how much I appreciate the things you have done for me. Be sure and tell Doug that I love him
+
+Bye for now --
+Love, Marilyn
 |===
 <<<
 == 1963
@@ -410,7 +481,15 @@ Letter text HERE
 a|image::1963_sterling/sterling_aug_12.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Hi Mom & Dad,
+
+I guess I won’t get time to write a letter so I’ll send this.
+
+We had two softball games in Davenport Iowa last week. Our girls beat 19-11 & our boys got beat 9-15. We have a lot of kids playing on our teams. We have a lot of fun taking them to play ball. A couple of them should be baptized before long.
+
+We are taking everyone to a Hawaiian barbecue this Sat. It should be good fellowship for them. Sister Brill -- the lady we baptized, is a completely different person almost. I can’t believe how much she has changed. It’s amazing what the gospel can do for these people when they accept it. Things are going great.
+
+Love Gaylon
 |===
 <<<
 === Sterling Sept 9
@@ -419,7 +498,13 @@ Letter text HERE
 a|image::1963_sterling/sterling_sept_9_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+{empty} +
+{empty} +
+Hi Mom & Dad
+
+We are on our way to Cedar Rabids to District Conference this morning. We got up at 4:30 so we could make it there in time for priesthood meeting but it looks like we won’t make it. We picked up the Elders in Rock Island & we had to wait a while for them. We are on a big super-highway with a 75 M.P.H. speed limit.
+
+The corn is really something to see here in Iowa. The tassels are brown & now the foliage is
 |===
 <<<
 //====== Sterling Sept 9 page 2
@@ -428,7 +513,9 @@ Letter text HERE
 a|image::1963_sterling/sterling_sept_9_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+drying up & turning brown too. They plant all over the rolling hills & you can see corn for miles & miles. Everyplace there is a drainage area or where two hills form a small valley the corn hasn’t grown because of too much water.
+
+This month the mission is dedicating to Pres. McKay since he will be 90. I guess it is his birthday today isn’t it? The work is going real well. We have three families that could be baptized this month if we can help them overcome their
 |===
 <<<
 //====== Sterling Sept 9 page 3
@@ -437,19 +524,24 @@ Letter text HERE
 a|image::1963_sterling/sterling_sept_9_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+problems. The lady whose husband died (Sis. Legal) said she would start coming to church. She doesn’t want to join because it would be hard for her to be baptized & also she doesn’t think she can pay tithing. They are really having a hard time. The one 11 year old boy can’t sleep at home because he things about seeing his father laying on the floor. He was the first one to find but his father was dead.
+
+We finally made it but we can’t find the school. Everything is going ok.
+
+Love Gaylon
 |===
 <<<
 //====== Sterling Sept 9 page 4
 [cols="1,1"]
 |===
 a|image::1963_sterling/sterling_sept_9_0003.png[]
-a|{empty} +
-{empty} +
-NOTE: The next two pages looked like a PS added onto this letter
+a|NOTE: The next two pages looked like a PS added onto this letter
 
+Well Mom & Dad we are now traveling to Davenport or our missionary conference. It was really great this morn & afternoon.
 
-Letter text HERE
+Bro & Sis Clancy came to the conference. She was having trouble with her back & wasn’t going to come but when Bro Clancy found out that I was there he went & got her. It was kina funny - they wouldn’t let me out of their sight. She can’t be baptized for 6-8 months & she said she wants me to baptize her.
+
+We just barely made it to priesthood on time.
 |===
 <<<
 //====== Sterling Sept 9 page 5
@@ -458,7 +550,7 @@ Letter text HERE
 a|image::1963_sterling/sterling_sept_9_0004.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+I got to see all the members of the Waterloo Branch. One of the members insisted on Elder Beals & I eating dinner with them so we did.
 |===
 <<<
 === Sterling Sept 13, 1963
