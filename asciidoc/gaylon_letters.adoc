@@ -1837,27 +1837,33 @@ Love Gaylon
 [cols="1,1"]
 |===
 a|image::11_unknown/misc_05_0000.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|Dear Mom & Dad
+
+Today I am in Cedar Rapids working with another Elder while my companion is in Nauvoo, Illinois. They are having a District Supervisors conference there. We left at three this morning so that he would be able to make it there one time.
+
+We had quite a shake-up in the branch yesterday. Saturday night we had a potluck dinner & after that the former Branch President was put upon the stage as part of a “This is Your Life” program. His wife & family & mother & father were all there & the whole branch paid tribute to him. Then yesterday the Branch presidency called his wife in & released her
 |===
 <<<
 //=== Misc Letter 5 page 2
 [cols="1,1"]
 |===
 a|image::11_unknown/misc_05_0001.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|From all her teaching responsibilities in the branch. It seems like she is always saying something  wrong around the new members & the other day she said something to a member that had been in the church about 4 months & along with all his personal problems it caused him to apostatize.
+
+We had a real good program for  commemoration of the restoration of the Aaronic priesthood. My companion was the narrator of the program & then there was a lot of singing & background music. It was real impressive.
+
+We have been teaching a real old lady the past couple of weeks. I gave her the third discussion & told her about the Word of Wisdom the other day,
 |===
 <<<
 //=== Misc Letter 5 page 3
 [cols="1,1"]
 |===
 a|image::11_unknown/misc_05_0002.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|She could accept everything but tea & coffee & then she doesn’t like tea so coffee is her only problem. She said that if it was a commandment she wanted to live it but she wanted to pray about it before she promised us she would. We won’t get to see her for a week now because she is going on a trip. It looks like she will be baptized this month though.
+
+Well my companion doesn’t like my sports jacket. He says we are supposed to wear suits & that’s it. I looked through our missionary instructions but it doesn’t state specifically about sport jackets.
+
+I guess I better close. We have our M-day Thursday since it is a holiday. Everything is going real good here. I hope you are all well & that Dad is getting along ok on the farm.
 |===
 <<<
 //=== Misc Letter 5 page 4
@@ -1866,7 +1872,8 @@ Letter text HERE
 a|image::11_unknown/misc_05_0003.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Love always,
+Gaylon
 |===
 <<<
 === Misc Letter 6
