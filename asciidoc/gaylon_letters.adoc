@@ -2101,7 +2101,15 @@ Send her a get-well card in your spare time would you please. She would really l
 a|image::11_unknown/misc_10_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Hi Mom & Dad & Doug
+
+It’s Monday & we’re washing so I’ll have a while to write.
+
+Elder Clark & I finally got a baptism. We baptized a young man who has never had any education & is really quite backward. He is working as a dishwasher starting today - he has been working at a big supermarket. We have been going there to buy all our winter clothes. He really likes the church & I can see that it has helped him a lot just the few times he has attended. We had a german woman & her boy come & watch the baptismal service & she was really impressed. She & her husband are going to come & visit us at our apartment on Christmas Eve. We’ll really have to clean up before they come.
+
+We are going to one of the members homes at 5 AM in the morning to watch the children open their presents. We also might go to a midnight mass at one of the Catholic churches tonight.
+
+I still haven’t gotten the tape recorder yet. We are going to the “Home” this afternoon & I’ll see for sure if it
 |===
 <<<
 //=== Misc Letter 10 page 2
@@ -2110,7 +2118,15 @@ Letter text HERE
 a|image::11_unknown/misc_10_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+has come. I imagine they would have called though if it had come.
+
+Elder Clark & I both have colds. We have been going kinda easy this week but I still can’t get rid of mine. He is about over his. We eat oranges every morning & I take those vitamin pills twice a day but I still can’t quite get over it.
+
+I got the money & the box of goodies you sent. You shouldn’t have sent so much. I’ll really get fat eating it all & you know I can’t leave it alone. It sure is good - I got a big package from Marilyn & her grandmother sent about 10 pounds of the most expensive cashews, almonds & other nuts you can buy. All our shelves are full of goodies.
+
+Thanks a lot for the shirt & garments, & all the other things you sent. You really shouldn’t have sent all that money when you sent this other too.
+
+Here is a picture for Doug. I was going to send it with that one I sent you but I didn’t get it in the envelope.
 |===
 <<<
 //=== Misc Letter 10 page 3
@@ -2119,7 +2135,10 @@ Letter text HERE
 a|image::11_unknown/misc_10_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+I’ll close for now. Write soon & I hope you all have a real good Christmas.
+
+Love you all
+Gaylon
 |===
 <<<
 === Misc Letter 11
@@ -2128,7 +2147,15 @@ Letter text HERE
 a|image::11_unknown/misc_11_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Hi Mom, Dad & Doug
+
+We just got through playing basketball so I have a few minutes.
+
+I really had a nice Christmas. We went to a Catholic Mass X-Mas Eve & that was really interesting. Then we got up at 5AM & went to a members home & watched their children open their presents. We ate breakfast & stayed there till noon & then we all went to another members home for dinner. Then they had a program with all their children & we even sang a song. It was really a nice Christmas. I didn’t even get homesick then but I have a little since. We don’t have many meetings to keep us busy & our minds on the work. But it hasn’t been bad. We are booked up for most of next week so that will keep us busy.
+
+I still haven’t gotten the tape recorder. I guess I’ll get it soon though. I hope Vernon could get that one for $119. It sounded like a real good deal to me. Write & let me know how much money you have him for it & the shipping costs.
+
+I’m finally over my sore throat & so is Elder Clark. The weather has been real nice
 |===
 <<<
 //=== Misc Letter 11 page 2
@@ -2137,7 +2164,15 @@ Letter text HERE
 a|image::11_unknown/misc_11_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+except for a few cold nights.
+
+We had a big fireside last night & there were 60 youth there. A couple of them were girls that are staying in the dorm next to Marilyn. They all gave talks & it was really tremendous. They are all real good speakers - leaders in every way as far as that goes. I was going to talk for a few minutes but after seeing them talk I’m sure glad they didn’t call on me.
+
+They have chosen a new 2nd counselor to President Maycock. His name is Elder Adams & I just met him yesterday. He is really a great man.
+
+I’ll close for now - write soon
+
+Love Gaylon
 |===
 <<<
 === Misc Letter 12
@@ -2150,7 +2185,7 @@ Letter text HERE
 |===
 <<<
 //=== Misc Letter 12 page 2
-[cols="1,1"]
+    [cols="1,1"]
 |===
 a|image::11_unknown/misc_12_0001.png[]
 a|{empty} +
