@@ -1,6 +1,7 @@
 :toc:
 :icons: font
 :imagesdir: ../images
+
 = Lewis Gaylon Hansen Letters
 Compiled by Steven L. & Jessica Hansen 2017
 
@@ -17,6 +18,14 @@ young women's project, I got Jessica to help me transcribe the letters and get t
 with everyone.
 
 Steve Hansen 2017
+
+<<<
+.Missionary Portrait
+image::dad/missionary_portrait_cropped.jpg[]
+
+<<<
+.Note to Marilyn on back of missionary portrait
+image::dad/note_to_mom_on_back_of_portrait_cropped.jpg[]
 
 <<<
 == 1961
@@ -1978,9 +1987,13 @@ Well I better close for now.
 
 Love, Gaylon
 
-
-
-NOTE: add scans of newspaper articles here
+|===
+<<<
+NOTE: Newspaper articles related to Marilyn's competing in the Miss Amador pagent
+|===
+a|image::queen/article1.jpg[]
+a|image::queen/article2.jpg[]
+a|image::queen/article3.jpg[]
 |===
 <<<
 === Misc Letter 8
