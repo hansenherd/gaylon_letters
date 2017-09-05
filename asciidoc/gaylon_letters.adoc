@@ -2534,9 +2534,10 @@ Love Gaylon
 === Ottawa Letter 1: Just arrived
 [cols="1,1"]
 |===
-a|image::14_1964_Ottawa/ottawa7_0000.png[]
+a|image::14_1964_Ottawa/ottawa0_0000.png[]
 a|{empty} +
 {empty} +
+*** RESCAN ***
 Hi Mom & Dad
 
 I have just arrived in Ottawa Illinois. I had Elder Curtis drive me here because it is only 70 miles from Sterling.
@@ -2555,7 +2556,7 @@ After I told President Nelson I was leaving he took me aside & told me that he w
 //=== Ottawa Just arrived Page 2
 [cols="1,1"]
 |===
-a|image::14_1964_Ottawa/ottawa7_0001.png[]
+a|image::14_1964_Ottawa/ottawa0_0001.png[]
 a|***SCAN 2nd page correctly***
 
 and so he will be leaving too. I sure don’t know who will be the next Branch President but it will sure be a loss when he leaves.
@@ -2568,10 +2569,8 @@ This morning Sister Taualii called & told me to come over for breakfast. I expla
 //=== Ottawa Just arrived Page 3
 [cols="1,1"]
 |===
-a|image::14_1964_Ottawa/ottawa7_0002.png[]
-a|***SCAN 3rd page correctly***
-
-have time I think it would be real nice if you could send her a thank you note. I’ll try to later on.
+a|image::14_1964_Ottawa/ottawa0_0002.png[]
+a|have time I think it would be real nice if you could send her a thank you note. I’ll try to later on.
 
 They live at:
   1401 Ave “J”
@@ -2603,7 +2602,7 @@ My companion, Elder Banry is from Oregon. He is really a good missionary. We hav
 It’s now Tuesday evening. On the way back from Chicago we stopped at one of the members & he referred us to a good friend. We taught them & they are real interested now.
 |===
 <<<
-//=== Ottawa Letter 3 Page 2
+//=== Ottawa Letter 2 Page 2
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa3_0001.png[]
@@ -2729,66 +2728,54 @@ Gaylon
 |===
 <<<
 === Ottawa Letter 6
+//=== typed letter ... no need for a transcription
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa5_0000.png[]
 a|
 |===
 <<<
-=== Ottawa Letter 7
-[cols="1,1"]
-|===
-a|image::14_1964_Ottawa/ottawa6_0000.png[]
-a|{empty} +
-{empty} +
-(RESCAN)
-Letter text HERE
-|===
-<<<
-//=== Ottawa Letter 6 Page 2
-[cols="1,1"]
-|===
-a|image::14_1964_Ottawa/ottawa6_0001.png[]
-a|{empty} +
-{empty} +
-(RESCAN)
-Letter text HERE
-|===
-<<<
-//=== Ottawa Letter 6 Page 3
-[cols="1,1"]
-|===
-a|image::14_1964_Ottawa/ottawa6_0002.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
-|===
-<<<
 === Ottawa Postcard : 2/19/1964
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa_2_19_1964.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|Hi Mom Dad & Doug,
+
+Thanks for the Valentine & money & Doug’s picture. He sure is changing. He looks like a real gentleman doesn’t he? We had a real nice conference in Chicago. This was the first I had gotten to talk with President Nadle alone. He is really a great man. I got to see Elder Litaty & some of the other Elders I have known. I hardly knew any of the Elders there though. The last couple of days everything has been going real great. We hurried home from Chicago & had a meeting with a man we are going to baptize Saturday. It was just last Saturday that he said he wanted to be baptized. After that we had a real good meeting with the 2nd Counselor’s boss. We hope to baptize him next month. Had a cold but it’s about gone. All is well.
+
+Gaylon
 |===
 <<<
 === Ottawa Postcard : 3/3/1964
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa_3_3_1964.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|Hi Mom & Dad
+
+We are going to Chicago to play ball this morning. Elder Banry got transferred. My new companion is Gary Gunnell from Idaho. He is a lot of fun to work with. We got permission to baptize a 14 year old boy last week, so all we have to do is teach him now.
+
+I had to wait in the apartment all day for Elder Gunnell to arrive Thursday. So I got to listen to a lot of my tapes again.
+
+I bought me a hair brush the other day.
+
+I am sure losing my hair.
+
+Love Gaylon
 |===
 <<<
 === Ottawa Postcard : 3/31/1964
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa_3_31_1964.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|Dear Mom & Dad,
+
+Today Elder Gunnell was transferred & I recieved Elder Toone as a companion. He has been out about 2 months. I got me a $49 Benrus watch. It is self-winding & normally sells for $71. It is really a good-looking watch & I really like it.
+
+Did I tell you we had a baptism Saturday? We baptized a 14 year old boy & we had his mother come to the services. It was real nice. We had some other non-member parents of member kids come to church Sunday.
+
+Everything is going fine
+
+Love Gaylon
 |===
 <<<
 == Post Ottawa
@@ -2798,7 +2785,13 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_01_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Hi Mom & Dad
+
+We are sure having beautiful weather here. We have had a couple more good rains the past week but it always clears off & is good weather during the day. Today is by far the warmest it’s been so far.
+
+Saturday it was nice weather so we got a group of kids together at one of the members homes in Marseilles & played baseball. We had a good time but I am still so stiff I can hardly walk.
+
+Yesterday we went to Chicago for Stake Conference. It was a good conference but it seemed like something was lacking. I guess it’s just that I didn’t know anyone there except those from Ottawa.
 |===
 <<<
 //=== Post Ottawa Misc Letter 1 page 2
@@ -2807,7 +2800,11 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_01_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+They said there is some new missionaries coming here this week so there will be a lot of transfers. I am about halfway expecting one. Maybe it is just that my companion has been telling me that I will.
+
+It seems like we aren’t having any success with our contacts. Either they are too busy to meet with or else they reject us after the 1st discussion. Elder Litater said he was having the same trouble at conference the other day.
+
+My companion got a letter from the head coach at Dixie. I guess he is going to play football there with a full scholarship.
 |===
 <<<
 //=== Post Ottawa Misc Letter 1 page 3
@@ -2816,7 +2813,13 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_01_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+We stopped at Sister Armstrongs to give her some Book of Mormons & she gave us a loaf of whole wheat bread right out of the oven. It sure tasted good.
+
+It’s funny - we always like to get homemade bread out here - it used to be a treat to get bread from the store.
+
+Well I better close.
+
+Love Gaylon
 |===
 <<<
 === Post Ottawa Misc Letter 2
@@ -2825,7 +2828,13 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_02_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Dear Mom & Dad
+
+I got your letter last night when we got home from the conference. It was good to hear that you keep getting a little rain. It rained the biggest share of last week here.
+
+I wonder how long it will be before they put that new highway in out by the farm. It sure is taking them a long time. Here in Illinois a lot of the super highway is getting rough & about half worn out & they won’t even have it completed until the end of this year.
+
+I sure didn’t think Mr Reese would be the new Bishop. I think he will be a good one though. I’ll have to write them a letter.
 |===
 <<<
 //=== Post Ottawa Misc Letter 2 page 2
@@ -2834,7 +2843,11 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_02_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Our conference was really good. Sunday we had a member that is a top psychologist talk to use. We all found that there is a lot about ourselves that we don’t know. He was talking directly to me all night.
+
+Later in the evening we had Crawford Gates (head of music at BYU) put on the fireside & he played some from the Hill Cummorah pagent. I promised myself that I am going to see that someday if it is at all possible.
+
+Yesterday we were in conference straight from 8am to 5pm with just a 10 minute break in between. Then we had a big dinner & had another
 |===
 <<<
 //=== Post Ottawa Misc Letter 2 page 3
@@ -2843,7 +2856,16 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_02_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+short session after that. We were exceptionally tired of sitting as you can well imagine. I was a little disappointed in that I didn’t get a chance to talk to President Nadle. He was so busy that he had to miss some of us.
+
+I borrowed a razor blade & used my adjustable razor this morning. My other razor is so dull that I never felt shaved even right after I had finished. I wrote the company but it would cost over $13 for new blades for it.
+
+Well I better close. I hope you can fill the apartment & keep them rented.
+
+Love always Gaylon
+
+PS
+Yes I got the checks you sent.
 |===
 <<<
 //=== Post Ottawa Misc Letter 2 page 4
@@ -2852,7 +2874,7 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_02_0003.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Tell Doug that I think this was really a good truck he drew. He can make a drawing like that better than I can.
 |===
 <<<
 === Post Ottawa Misc Letter 3
@@ -2889,7 +2911,6 @@ Letter text HERE
 a|image::13_end_of_mission/endOfMission1_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
 |===
 <<<
 //=== End of Mission Letter 1 Page 2
@@ -2898,7 +2919,6 @@ Letter text HERE
 a|image::13_end_of_mission/endOfMission1_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
 |===
 <<<
 //=== End of Mission Letter 1 Page 3
@@ -2979,9 +2999,9 @@ Letter text HERE
 [cols="1,1"]
 |===
 a|image::13_end_of_mission/endOfMission5_0000.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|I don’t know for sure when I will be released. I will really have to hurry in order to get to school though I’m sure.
+
+I still don’t know what I want to go out in at school. I have been thinking a lot about it lately & it’s starting to worry me a little. I know I’ll never get anywhere if I don’t know where I want to go.
 |===
 <<<
 == Later in Life
