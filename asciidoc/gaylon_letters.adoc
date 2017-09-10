@@ -2883,7 +2883,11 @@ Tell Doug that I think this was really a good truck he drew. He can make a drawi
 a|image::06_after_ottawa/ottawa_03_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Dear Mom & Dad
+
+Yesterday was one of the nicest days I have ever seen. The weather was just perfect. We drove about 20 miles north to some members for dinner & it seemed like the first time I had ever been there. Everything was green & all the trees & grass 4-6” high. They have had more rain this spring than they have had for quite a few years.
+
+Last week we taught 7 different families for the first time. We only got return appointments on two of them though. One lady got up & left during the discussion & wouldn’t come back. Another man asked us to leave after
 |===
 <<<
 //=== Ottawa Misc Letter 3 page 2
@@ -2892,7 +2896,14 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_03_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+{empty} +
+we had finished telling him about the apostasy. That was the first anyone ever walked out or asked us to leave & it happened twice this week. It sure made us feel bad.
+
+Well we finally got our shopping done. I had to defrost the refrigerator before we could put anything in the ice box. It really builds up fast.
+
+We have a lot of little black ants that are getting in the apartment. They have been getting into the food somewhat. I sure hate to see the bugs come this spring.
+
+What’s the address of Bishop Reese? I haven’t
 |===
 <<<
 //=== Ottawa Misc Letter 3 page 3
@@ -2901,7 +2912,13 @@ Letter text HERE
 a|image::06_after_ottawa/ottawa_03_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+{empty} +
+written to them but I guess I should. I’m getting so I hate to write more all the time. Sometimes I think after I get off my mission I’ll never write another letter but I guess I will.
+
+Well, I’ll close for now
+
+Love
+Gaylon
 |===
 <<<
 == End of Mission
@@ -2911,6 +2928,12 @@ Letter text HERE
 a|image::13_end_of_mission/endOfMission1_0000.png[]
 a|{empty} +
 {empty} +
+{empty} +
+Hi Mom & Dad
+
+I got your letters this morning. It sounds like Laraine & Darwin are planning on building them a house. They must be doing pretty well if they can have a new one built for them. What is he studying in school anyway?
+
+I know Dad has said he was going to sell the farm for a long time, is there a very good chance that he can get what it’s worth out of it? I really don’t know what I want to do. This is something that is starting to worry me now that I realize that in a matter of months I’ll be home again. I am planning on attending the “Y” this fall. I
 |===
 <<<
 //=== End of Mission Letter 1 Page 2
@@ -2919,6 +2942,11 @@ a|{empty} +
 a|image::13_end_of_mission/endOfMission1_0001.png[]
 a|{empty} +
 {empty} +
+sure don’t know what I’ll major in though. I haven’t heard from the “Y” for quite a while. The last thing I got from them was a notice that I was admitted back there this fall.
+
+Yesterday it rained off & on then it rained real hard all night last night & finally it quit about noon. I’ve never seen so much rain in my life. The thunder & lightning woke me up several times last night.
+
+About a month ago I gave President Armstrong $20 for the building fund. I had it put in your name Dad so you can deduct it from your
 |===
 <<<
 //=== End of Mission Letter 1 Page 3
@@ -2927,7 +2955,11 @@ a|{empty} +
 a|image::13_end_of_mission/endOfMission1_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+income tax. The members have sure given us a lot of food. Sister Armstrong has given us about 8 quarts of tomatoes & some tomato juice that she bottled last year. It sure is good to get some fresh fruit like that. They have given us all the potatoes we have needed up until now too so I figure we’ve saved at least this much in food.
+
+That’s not to mention the Sunday dinners we get. There has only been one week that we haven’t eaten with some of the members.
+
+Did you notice in the Northern States News last month where Brother Slifer had a short letter in it? It really thrilled
 |===
 <<<
 //=== End of Mission Letter 1 Page 4
@@ -2936,18 +2968,23 @@ Letter text HERE
 a|image::13_end_of_mission/endOfMission1_0003.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+me to see that. I got Easter cards from some of the people we baptized in Sterling. Did I mention the other day I called Sister Legal in Sterling & talked to her. She was going into the hospital so I wanted to talk to her. It really thrilled her to think that I would call. She said the Slifer family had given talks in church & everything.
+
+Well I better close for now. I should write Marilyn & it’s getting late.
+
+Love always
+Gaylon
 |===
 <<<
 === End of Mission Letter 2
 [cols="1,1"]
 |===
 a|image::13_end_of_mission/endOfMission2_0000.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
-(when pen runs out it says:)
-How has the apt. been doing? I hope you have been able to keep it rented.
+a|Hi Mom & Dad
+
+I got your letter this morning. It kinda surprised me to hear that you bought a new Dodge. I bet it will really be nice for you to sport around in won’t it dad - I’m glad that I’m not using all your money so you can enjoy a few of the nicer things.
+
+How has the apartment been doing? I hope you have been able to keep it rented.
 |===
 <<<
 //=== End of Mission Letter 2 Page 2
@@ -2955,17 +2992,23 @@ How has the apt. been doing? I hope you have been able to keep it rented.
 |===
 a|image::13_end_of_mission/endOfMission2_0001.png[]
 a|{empty} +
-{empty} +
-Letter text HERE
+
 |===
 <<<
 === End of Mission Letter 3
 [cols="1,1"]
 |===
 a|image::13_end_of_mission/endOfMission3_0000.png[]
-a|{empty} +
-{empty} +
-Letter text HERE
+a|Dear Mom,
+
+I got your letter this morning saying that BYU wants the money by the 15th. This doesn’t give much time when the mail is so slow getting here. Especially when my transfer delayed it. Yes I am planning on getting right into school when I get back. I haven’t talked to President Nadle about getting an early release but I will talk to him Monday more than likely. We have a conference then. I’m sure it will be all right with him if I come home in time for school.
+
+Go ahead & sign the agreement & pay them for the first semester.
+
+We got an apartment for $40 a month so this will help with my expenses. I will use the $25 check Marilyn sent me so you can send that much less to me next month.
+
+Love
+Gaylon
 |===
 <<<
 === End of Mission Letter 4
@@ -2974,7 +3017,13 @@ Letter text HERE
 a|image::13_end_of_mission/endOfMission4_0000.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Hi Mom & Dad
+
+We are sure having some beautiful weather here. It has been up to 70 degrees once or twice. It has been real warm ever since I got here except for a few days now & then. Everyone is running around with light jackets & all we wear is our suit coats.
+
+I had all my suits cleaned & my overcoat cleaned & water repellant put on it. It sure is expensive to get things cleaned.
+
+Our car brakes went out on us the other day. They leaked fluid out of one of the wheels so we had to send to Chicago to get permission to fix them.
 |===
 <<<
 //=== End of Mission Letter 4 Page 2
@@ -2983,7 +3032,13 @@ Letter text HERE
 a|image::13_end_of_mission/endOfMission4_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+they told us that we have to get the front wheels packed to.
+
+Yesterday we were the speakers at Sacrament meeting. There were a couple of High Council men from the Stake there & so I really felt out of place talking with such good speakers as that behind me.
+
+We had one of our contacts to church for the first time yesterday. It sure seemed good.
+
+We are having a regional conference in Chicago next week at this time. Everyone has been assigned to talk. I sure don’t like to talk, especially in front of all the Elders like that.
 |===
 <<<
 //=== End of Mission Letter 4 Page 3
@@ -2992,7 +3047,14 @@ Letter text HERE
 a|image::13_end_of_mission/endOfMission4_0002.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Yesterday we ate dinner with some members that live 20 miles north of here. They drive twice each Sunday to church & back. They have a daughter that is going to the “Y” this fall.
+
+I finally sent my application in for housing. They sure got the blank back in a hurry. Do you remember what my grade point average was? I couldn’t remember for sure what it was.
+
+Well I better close this for now.
+
+Love
+Gaylon
 |===
 <<<
 === End of Mission Letter 5
@@ -3008,10 +3070,17 @@ I still don’t know what I want to go out in at school. I have been thinking a 
 [cols="1,1"]
 |===
 a|image::15_post_married/cami_0000.png[]
-a|{empty} +
-{empty} +
-*NOTE:* This letter was written much later and it mentions Cami, so it's included
-Letter text HERE
+a|NOTE: This letter was written much later and it mentions Cami, so it's included
+
+Dear Mom & Dad
+
+Just a note to include with this check. I’m trying to get it off on time this month.
+
+The weather is just beautiful - everything is green - I’ve worked in flower beds & garden the last few evenings. My rototiller broke so I got it fixed & went to redo a section last night & it froze up like it broke a piston or something. I can’t believe it.
+
+Cami & I harvested the last of my carrots yesterday - they were starting to bolt up & go to seed so I decided I better gather them - the lilacs are sure fragrant & beautiful.
+
+Marilyn & I went with some friends on a boat ride at Lake Pardee & I was able to show them the hills where I work & fire lines we have cut. It was fun to ride up the river & see where all the boats go to fish. I see them daily speeding up the lake so it was fun to see where they go. It was beautiful up in the narrows.
 |===
 <<<
 //=== Later in Life Page 2
@@ -3020,6 +3089,11 @@ Letter text HERE
 a|image::15_post_married/cami_0001.png[]
 a|{empty} +
 {empty} +
-Letter text HERE
+Well I’ve got to run to work.
+
+Dad don’t work too hard in the garden. I wish I was there to help.
+
+Love
+Gaylon
 |===
 <<<
