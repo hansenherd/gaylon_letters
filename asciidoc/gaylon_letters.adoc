@@ -19,7 +19,14 @@ with everyone.
 
 Steve Hansen 2017
 
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+NOTE: Where possible, I've included the dates when the letters were mailed, however, many letters are not in envelopes. I was able to group some letters based on notes Grandma Hansen made on the letters, but many letters were hard to put into any context.
+
 <<<
+== Missionary Portrait & note to mom
 .Missionary Portrait
 image::dad/missionary_portrait_cropped.jpg[]
 
@@ -29,7 +36,7 @@ image::dad/note_to_mom_on_back_of_portrait_cropped.jpg[]
 
 <<<
 == 1961
-=== Letter 1
+=== College Letter 1
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_1_1.png[]
@@ -91,7 +98,7 @@ I think I’ll really like it up here if I can get settled on home classes that 
 |===
 
 <<<
-=== Letter 2
+=== College Letter 2
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_2_0000.png[]
@@ -183,7 +190,7 @@ Gaylon Hansen
 |===
 
 <<<
-=== Letter 3
+=== College Letter 3
 [cols="1,1"]
 |===
 a|image::1961/1961_letter_3_0001.png[]
@@ -315,13 +322,11 @@ Love you very much
 Gaylon
 |===
 <<<
-=== Letter 2
+=== Letter 2 - 10/16/1962
 [cols="70,30"]
 |===
 a|image::1962/1962_2_0000.png[]
-a|mailed October 16, 1962
-{empty} +
-{empty} +
+a|{empty} +
 Hi Mom & Dad & Doug
 
 We’re on the way to church so I’ll try & write a little we’re supposed to meet a contact there. He called up Thursday & said he was interested in our church. Also a man called the mission home & said he wanted to be baptized. I couldn’t believe it.
@@ -464,7 +469,7 @@ Dear Mr. & Mrs. Hansen & Doug,
 
 I wanted to get a letter off right away to thank you all for such a wonderful weekend. It has been a weekend that will always be very special to me. I wish there was just some way I could show you all the love I have for you.
 
-We got here at Provo about 5:30 pm. Connie and I sure had a mice visit on the way down and back. I’m sure glad we can be as close as we are.
+We got here at Provo about 5:30 pm. Connie and I sure had a nice visit on the way down and back. I’m sure glad we can be as close as we are.
 
 I want you to know that I love Gaylon very much. I hope and pray that I will never
 |===
@@ -578,15 +583,21 @@ Love Gaylon
 |===
 <<<
 === Sterling Nov 4 postcard
-image::1963_sterling/sterling_nov_4_001.png[]
-<<<
 //====== Sterling Nov 4 postcard
 [cols="1,1"]
 |===
-a|image::1963_sterling/sterling_nov_4_002.png[]
+a|image::1963_sterling/sterling_nov_4_001.png[]
+image::1963_sterling/sterling_nov_4_002.png[]
 a|{empty} +
 {empty} +
-
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
 Hi Mom & Dad
 
 The other day while the kids were in primary we went tracting for about 30 min. & found a young couple that are really interested. It was really quite an experience. Everything is going great. I got some new glass frames. My new suit is dark with a few blue threads in it. I really like it. I think I’ll need about $20 to finish the month - I have about $10 left after all expenses & rent.
@@ -596,17 +607,29 @@ We have conference next weekend. I guess I’ll see Stan just before he goes hom
 Love Gaylon
 |===
 <<<
-=== Sterling Nov 13
+=== Sterling Nov 13 postcard
 [cols="1,1"]
 |===
+// replace with scan of front of the postcard
 a|image::1963_sterling/sterling_nov_13.png[]
+image::1963_sterling/sterling_nov_13.png[]
 a|{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+I got your check
 {empty} +
 Hi Mom & Dad
 
 Conference was just terrific. I talked to pres Maycock for the last time. We are dedicating thes month to him & Sis Maycock.
 
-They have a big place of the corn up. If their cilos won't hold it they make a circle out of snow fence & put the rest of the corn in that. Everything's great.
+They have a big share of the corn up. If their cilos won't hold it they make a circle out of snow fence & put the rest of the corn in that. Everything's great.
 
 Love Gaylon
 
@@ -1165,7 +1188,7 @@ Dear Folks
 
 I started a letter but left it with my book at the Bishops so I'll just drop a card for now. The members who lent us their records to record really seem to like pine nuts. We would like to give them some to show our appreciation if you still have a lot, if you don't then never mind. We have a big Conference this weekend. The Stake is being split. Two apostles will be here.
 
-Elder Nielson is master of ceromonites for a later conference.
+Elder Nielson is master of ceremonies for a later conference.
 
 Congratulate Jean & Forrest for me...everything is going great,
 
@@ -1427,12 +1450,13 @@ I hope you can get to feeling better Dad. I'm sure it will work out with the far
 
 Love Always
 Gaylon
+
+NOTE: Included below are the three poems Dad mentioned in the above letter
 |===
 <<<
+=== IF
 |===
 a|
-NOTE: Included below are the three poems Dad mentioned in the above letter
-
 *IF*  by Rudyard Kipling
 
      If you can keep your head when all about you
@@ -1469,8 +1493,7 @@ NOTE: Included below are the three poems Dad mentioned in the above letter
          And—which is more—you’ll be a Man, my son!
 |===
 <<<
-//|===
-//a|
+=== Abraham Lincoln Walks At Midnight
 *Abraham Lincoln Walks At Midnight* by Vachel Lindsay
 
     It is portentous, and a thing of state
@@ -1513,8 +1536,8 @@ NOTE: Included below are the three poems Dad mentioned in the above letter
     Seem yet in vain. And who will bring white peace
     That he may sleep upon his hill again?
 
-//|===
 <<<
+=== The House by the Side of a Road
 *The House by the Side of a Road* by Sam Walter Foss
 
     “He was a friend to man, and lived In a house by the side of the road.” —Homer
