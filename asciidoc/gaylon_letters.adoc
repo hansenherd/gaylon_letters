@@ -991,7 +991,7 @@ Love Gaylon
 [cols="1,1"]
 |===
 // replace with scan of front of the postcard
-a|image::1963_sterling/sterling_nov_13.png[]
+a|image::1963_sterling/sterling_nov_13_cover.png[]
 image::1963_sterling/sterling_nov_13.png[]
 a|{empty} +
 {empty} +
@@ -2678,7 +2678,7 @@ We have sure spent a lot of money here in Ottawa. We are both about broke now. T
 
 This isn’t a hint for more money...it’s just that we don’t have it all here. I should be able to get by on $100 next month.
 
-The shark skin suit that I brought out has worn in too on the cuff where it
+The shark skin suit that I brought out has worn in two on the cuff where it
 |===
 <<<
 //=== Ottawa Letter 1 Page 2
@@ -2697,16 +2697,18 @@ Love Always
 Gaylon
 |===
 <<<
-=== Ottawa Letter 4
+=== Ottawa Letter 4 February 1964
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa2_0000.png[]
-a|{empty} +
-{empty} +
-*** REVIEW SCAN WITH PDF, REDO???***
+a|  Elder Hansen +
+    212 State St +
+    Ottawa,  Ill +
+    Feb 24, 1964 +
+
 Hi Mom & Dad
 
-Well Saturday we had our first baptism here in Ottawa. His name is Bruno Orsowy & he is from Czechoslovakia. (I don’t know how to spell that country’s name). He is an amature artist & quite good. He literally had hundreds of paintings in his home. He has an art show coming up in which he will have 35 different paintings. He took us & showed us all the paintings & told us to take our pick. He ??? said he would try & paint a picture especially for us if we had one for him to paint. Could you send a couple of postcards or picture that you think would make good
+Well Saturday we had our first baptism here in Ottawa. His name is Bruno Orsowy & he is from Czechoslovakia. (I don’t know how to spell that country’s name). He is an amature artist & quite good. He literally had hundreds of paintings in his home. He has an art show coming up in which he will have 35 different paintings. He took us & showed us all the paintings & told us to take our pick. He also said he would try & paint a picture especially for us if we had one for him to paint. Could you send a couple of postcards or pictures that you think would make good
 |===
 <<<
 //=== Ottawa Letter 2 Page 2
@@ -2763,7 +2765,7 @@ They have given us a lot of referrals too. This is the first city in which the m
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa4_0001.png[]
-a|I hope the gas war lasts. All the food is a lot higher here than anywhere else. It’s 79 cents a gallon for milk. We have a member that owns a dairy farm 15 miles north & he has brought we 2 gallons so far. He gives us all we want when we go up there.
+a|I hope the gas war lasts. All the food is a lot higher here than anywhere else. It’s 79 cents a gallon for milk. We have a member that owns a dairy farm 15 miles north & he has brought us 2 gallons so far. He gives us all we want when we go up there.
 
 The members bake a lot of bread & sweets & take it to one of the super markets & have their own special bake sale. They made $160 last Saturday.
 
@@ -2790,7 +2792,18 @@ a|
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa_2_19_1964.png[]
-a|Hi Mom Dad & Doug,
+image::14_1964_Ottawa/ottawa_2_19_cover.png[]
+a|{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+Hi Mom Dad & Doug,
 
 Thanks for the Valentine & money & Doug’s picture. He sure is changing. He looks like a real gentleman doesn’t he? We had a real nice conference in Chicago. This was the first I had gotten to talk with President Nadle alone. He is really a great man. I got to see Elder Litaty & some of the other Elders I have known. I hardly knew any of the Elders there though. The last couple of days everything has been going real great. We hurried home from Chicago & had a meeting with a man we are going to baptize Saturday. It was just last Saturday that he said he wanted to be baptized. After that we had a real good meeting with the 2nd Counselor’s boss. We hope to baptize him next month. Had a cold but it’s about gone. All is well.
 
@@ -2801,7 +2814,18 @@ Gaylon
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa_3_3_1964.png[]
-a|Hi Mom & Dad
+image::14_1964_Ottawa/ottawa_3_3_cover.png[]
+a|{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+Hi Mom & Dad
 
 We are going to Chicago to play ball this morning. Elder Banry got transferred. My new companion is Gary Gunnell from Idaho. He is a lot of fun to work with. We got permission to baptize a 14 year old boy last week, so all we have to do is teach him now.
 
@@ -2818,7 +2842,18 @@ Love Gaylon
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa_3_31_1964.png[]
-a|Dear Mom & Dad,
+image::14_1964_Ottawa/ottawa_3_31_cover.png[]
+a|{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+Dear Mom & Dad,
 
 Today Elder Gunnell was transferred & I recieved Elder Toone as a companion. He has been out about 2 months. I got me a $49 Benrus watch. It is self-winding & normally sells for $71. It is really a good-looking watch & I really like it.
 
@@ -2894,7 +2929,7 @@ I sure didn’t think Mr Reese would be the new Bishop. I think he will be a goo
 a|image::06_after_ottawa/ottawa_02_0001.png[]
 a|{empty} +
 {empty} +
-Our conference was really good. Sunday we had a member that is a top psychologist talk to use. We all found that there is a lot about ourselves that we don’t know. He was talking directly to me all night.
+Our conference was really good. Sunday we had a member that is a top psychologist talk to us. We all found that there is a lot about ourselves that we don’t know. He was talking directly to me all night.
 
 Later in the evening we had Crawford Gates (head of music at BYU) put on the fireside & he played some from the Hill Cummorah pagent. I promised myself that I am going to see that someday if it is at all possible.
 
@@ -2948,7 +2983,7 @@ a|image::06_after_ottawa/ottawa_03_0001.png[]
 a|{empty} +
 {empty} +
 {empty} +
-we had finished telling him about the apostasy. That was the first anyone ever walked out or asked us to leave & it happened twice this week. It sure made us feel bad.
+we had finished telling him about the apostasy. That was the first anyone ever walked out, or asked us to leave & it happened twice this week. It sure made us feel bad.
 
 Well we finally got our shopping done. I had to defrost the refrigerator before we could put anything in the ice box. It really builds up fast.
 
@@ -3115,6 +3150,8 @@ a|image::13_end_of_mission/endOfMission5_0000.png[]
 a|I don’t know for sure when I will be released. I will really have to hurry in order to get to school though I’m sure.
 
 I still don’t know what I want to go out in at school. I have been thinking a lot about it lately & it’s starting to worry me a little. I know I’ll never get anywhere if I don’t know where I want to go.
+
+NOTE: This partial letter was all that was available.
 |===
 <<<
 == Later in Life
@@ -3148,3 +3185,11 @@ Love
 Gaylon
 |===
 <<<
+== Fun Facts & Quotes
+
+    We really do a lot of traveling. Last week we spent $6.00 for gas & we got it for 19.9 cents a gallon.
+
+    All the food is a lot higher here than anywhere else. It’s 79 cents a gallon for milk.
+
+    We got an apartment for $40 a month
+
