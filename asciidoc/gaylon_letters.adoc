@@ -991,7 +991,7 @@ Love Gaylon
 [cols="1,1"]
 |===
 // replace with scan of front of the postcard
-a|image::1963_sterling/sterling_nov_13_cover.png[]
+a|image::1963_sterling/sterling_nov_13_cover.jpg[]
 image::1963_sterling/sterling_nov_13.png[]
 a|{empty} +
 {empty} +
@@ -2590,9 +2590,7 @@ Gaylon
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa0_0000.png[]
-a|{empty} +
-{empty} +
-Hi Mom & Dad
+a|Hi Mom & Dad
 
 I have just arrived in Ottawa Illinois. I had Elder Curtis drive me here because it is only 70 miles from Sterling.
 
@@ -2640,9 +2638,7 @@ Send these pictures onto Marilyn so she can put them in my scrap book, when you 
 [cols="1,1"]
 |===
 a|image::14_1964_Ottawa/ottawa3_0000.png[]
-a|{empty} +
-{empty} +
-Hi Mom & Dad
+a|Hi Mom & Dad
 
 We are on our way to Chicago for a District Conference. Our car needs new shocks so this is a rough ride. We are finally settled in Ottawa. We saw the Mayor & Chief of Police & had our pictures put in the newspaper.
 
@@ -2791,8 +2787,8 @@ a|
 === Ottawa Postcard : 2/19/1964
 [cols="1,1"]
 |===
-a|image::14_1964_Ottawa/ottawa_2_19_1964.png[]
-image::14_1964_Ottawa/ottawa_2_19_cover.png[]
+a|image::14_1964_Ottawa/ottawa_2_19_cover.png[]
+image::14_1964_Ottawa/ottawa_2_19_1964.png[]
 a|{empty} +
 {empty} +
 {empty} +
@@ -2813,8 +2809,8 @@ Gaylon
 === Ottawa Postcard : 3/3/1964
 [cols="1,1"]
 |===
-a|image::14_1964_Ottawa/ottawa_3_3_1964.png[]
-image::14_1964_Ottawa/ottawa_3_3_cover.png[]
+a|image::14_1964_Ottawa/ottawa_3_3_cover.png[]
+image::14_1964_Ottawa/ottawa_3_3_1964.png[]
 a|{empty} +
 {empty} +
 {empty} +
@@ -2841,8 +2837,8 @@ Love Gaylon
 === Ottawa Postcard : 3/31/1964
 [cols="1,1"]
 |===
-a|image::14_1964_Ottawa/ottawa_3_31_1964.png[]
-image::14_1964_Ottawa/ottawa_3_31_cover.png[]
+a|image::14_1964_Ottawa/ottawa_3_31_cover.png[]
+image::14_1964_Ottawa/ottawa_3_31_1964.png[]
 a|{empty} +
 {empty} +
 {empty} +
